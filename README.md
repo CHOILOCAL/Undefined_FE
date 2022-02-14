@@ -12,3 +12,19 @@ tutorial : https://storybook.js.org/tutorials/intro-to-storybook/react/ko/get-st
 
 Local: http://localhost:6006/
 # Undefined_FE
+*TEST
+
+TypeScript, React
+Webpack/Babel
+D3/Chart
+
++ 
+
+Swagger API Doc
+
++ 
+
+Spring boot, Java
+Postgres
+
++ AWS(Route53, CloudFront, S3, ECS, ECR, CloudWatch, SES)
