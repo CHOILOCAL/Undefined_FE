@@ -21,6 +21,10 @@ module.exports = {
         printWidth: 80,
         bracketSpacing: true,
         arrowParens: 'avoid',
+        extendDefaults: true,
+        types: {
+          '{}': true,
+        },
       },
     ],
   },
